@@ -14,7 +14,10 @@ To write a Python program to insert 3 elements into a queue and display each ele
 
 ## Program
 
-```python
+```
+# Reg.No-212223050048
+# Name-SIBIRAJI M
+# Write your code here
 queue = []
 
 # Enqueue elements into the queue
@@ -34,3 +37,4 @@ for i in range(len(queue)):
 
 
 ## RESULT
+Thus the Python program to insert 3 elements into a queue and display each element with its index is executed successfully.
