@@ -17,7 +17,10 @@ To write a Python program to type and display the elements pushed into a stack u
 
 ## PROGRAM
 
-```python
+```
+# Reg.No-212223050048
+# Name-SIBIRAJI M
+# Write your code here
 stack = []
 
 # Push elements into the stack
@@ -41,7 +44,8 @@ print("Stack after pop:")
 print(stack)
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/da9cad4b-6239-4a3b-a4ab-5e2ac51219ed)
 
 ## RESULT
-
+Thus the Python program to type and display the elements pushed into a stack using a linked list approach is executed successfully.
 
