@@ -15,7 +15,10 @@ To write a Python program to insert 3 elements into a stack and display the inde
 
 ## Program
 
-```python
+```
+# Reg.No-212223050048
+# Name-SIBIRAJI M
+# Write your code here
 stack = []
 
 # Push elements into the stack
@@ -33,6 +36,8 @@ for i in range(len(stack)):
 
 ## Output
 
+![image](https://github.com/user-attachments/assets/0fd9b318-9111-4f68-b62b-cba6c257c922)
 
 ## Result
+Thus the Python program to insert 3 elements into a stack and display the index value of each element stored in the stack is executed successfully.
 
